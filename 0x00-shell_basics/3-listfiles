@@ -4,5 +4,5 @@ total 24
 -rwxr--r-- 1 root root  16 Sep  2 21:29 0-current_working_directory
 -rwxr--r-- 1 root root  15 Sep  2 21:47 1-listit
 -rwxr--r-- 1 root root  17 Sep  9 07:44 2-bring_me_home
--rw-r--r-- 1 root root  12 Sep  9 07:52 3-listfiles
--rw-r--r-- 1 root root 148 Sep  9 07:46 README.md
+-rwxr--r-- 1 root root  12 Sep  9 23:23 3-listfiles
+-rw-r--r-- 1 root root 252 Sep  9 23:12 README.md
